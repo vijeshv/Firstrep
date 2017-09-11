@@ -1,0 +1,15 @@
+
+
+cd c:
+cd d:
+
+cd D:\Demo\Git
+
+
+1. git clone https://github.com/vijeshv/Firstrep.git
+
+2. make some modification may be add file insid elocal firstrep
+
+3.git status
+
+-> it will show local modication

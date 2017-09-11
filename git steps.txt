@@ -13,3 +13,17 @@ cd D:\Demo\Git
 3.git status
 
 -> it will show local modication
+
+5.git add "git steps.txt"
+
+6.git commit -m "added text file"
+
+7. git push
+
+
+8.git pull              retrive dat form hub to loacal github directory
+
+
+
+
+#########################################################

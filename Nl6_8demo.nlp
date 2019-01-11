@@ -1,0 +1,13 @@
+# Project description file
+
+project.name=Nl6_8demo
+project.version=6.5
+project.original.version=6.5
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.original.version=6.8.0
+project.id=4e5e6486-24d6-4c7b-a669-33f3e7809f7a
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=/vijeshv/Firstrep
